@@ -21,18 +21,12 @@ Step 1. Install Guest Additions on the Guest machine.
 2. From Oracle's VM VirtualBox main menu, select Devices > Install Guest Additions *
 
 a. Open Windows Explorer
-b. Double click at the "CD Drive (X:) VirtualBox Guest additions" to explore its contents.
-		  
+b. Double click at the "CD Drive (X:) VirtualBox Guest additions" to explore its contents.		  
 ![image](https://github.com/user-attachments/assets/d3dbb341-38c1-4f3e-92f7-0cfe1084e679)
-
 C.Right click at "VBoxWindowsAdditions" application and from the pop-up menu, choose "Run as administrator".
- 
 ![image](https://github.com/user-attachments/assets/35be1b73-df5c-445e-bb24-94d71f7898e4)
-
-3.Press Next and then follow the on screen instructions to complete the Guest Additions installation.
-	 
+3.Press Next and then follow the on screen instructions to complete the Guest Additions installation. 
 ![image](https://github.com/user-attachments/assets/066c93ef-f2fa-40e8-a8f2-041ca2758db1)
-
 4. When the setup is completed, choose Finish and restart the Virtuabox guest machine.
 Step 2. Setup File Sharing on VirtualBox Guest Machine.
 1. From VirtualBox menu click Devices and choose Shared Folders -> Shared Folder Settings.
